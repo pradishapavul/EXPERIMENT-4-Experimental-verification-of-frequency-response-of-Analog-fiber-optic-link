@@ -42,25 +42,24 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 ---
 
 ## BLOCK DIAGRAM
-<img width="665" height="389" alt="image" src="https://github.com/user-attachments/assets/b86fe21d-59fc-4803-910e-422156a9d04c" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/fb1f3888-f962-4cdf-9277-a376baa37992" />
 
 
 
 
 ## TABULATION  
-**Transmission through Analog Link**
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c6cee972-fb24-4b92-985a-80ccc682db63" />
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/83eb2eee-68ef-4f09-984b-00201fb909c7" />
 
 
 
 
 ## MODEL GRAPH
-<img width="612" height="292" alt="image" src="https://github.com/user-attachments/assets/1ecc44f6-37cf-45f8-a262-c204d123e828" />
+<img width="612" height="292" alt="image" src="https://github.com/user-attachments/assets/e026678c-cfc1-425a-abe0-7c4ed1825d17" />
 
-*(Insert model graph here)*
-
----<img width="1280" height="974" alt="image" src="https://github.com/user-attachments/assets/e8ba5668-4948-4907-87e3-db16cd77d746" />
+##Graph
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/59fb0292-5c6b-438f-892f-9d97e7bcc161" />
 
 
 ## RESULT
